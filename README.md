@@ -1,4 +1,4 @@
-#📦 Logistic Management System 🚚
+📦 Logistic Management System 🚚
 
 The Logistic Management System is a backend project developed using advanced Java with Spring Boot, MySQL, Maven, REST API, and Postman. This system manages logistics operations such as shipment tracking, inventory management, and order processing. Here’s a brief description of its core components and functionalities:
 Core Components:
